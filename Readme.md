@@ -1,0 +1,1 @@
+Hugginface [LLM course](https://huggingface.co/learn/llm-course/chapter1/1) notes
